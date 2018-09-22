@@ -1,4 +1,4 @@
  
-This repository contains some short Python projects I've done.
+This repository contains various short Python projects I've done.
 
  
